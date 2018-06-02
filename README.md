@@ -8,7 +8,7 @@ To deploy StreamSets Data Collector Edge on resin.io device, you will need to si
 
 Once you are set up with resin.io, you will need to clone this repo locally:
 ```
-$ git clone git@github.com:resin-projects/simple-server-node.git
+$ git clone git@github.com:madhukard/datacollector-edge-resin-io.git
 ```
 Then add your resin.io application's remote repository to your local repository:
 ```
