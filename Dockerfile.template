@@ -1,0 +1,2 @@
+FROM streamsets/datacollector-edge:3.4.0-SNAPSHOT-arm
+EXPOSE 18633/tcp
