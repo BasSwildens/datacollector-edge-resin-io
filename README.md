@@ -4,7 +4,7 @@ This is a simple skeleton [StreamSets Data Collector Edge][streamsets-data-colle
 
 This project deploys StreamSets Data Collector Edge agent on your resin.io device.
 
-To deploy StreamSets Data Collector Edge on resin.io device, you will need to signup for a resin.io account [here][signup-page] and set up a device, have a look at our [Getting Started tutorial][gettingStarted-link]. 
+To deploy StreamSets Data Collector Edge on resin.io device, you will need to signup for a resin.io account [here][signup-page] and set up a device, have a look at resnio.io [Getting Started tutorial][gettingStarted-link]. 
 
 Once you are set up with resin.io, you will need to clone this repo locally:
 ```
